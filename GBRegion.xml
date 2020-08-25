@@ -12,11 +12,10 @@
 <gs:SystemLocale Name="en-GB"/>
 <!-- GeoID -->
 <gs:LocationPreferences> 
-    <gs:GeoID Value="12"/> 
+    <gs:GeoID Value="242"/> 
 </gs:LocationPreferences>
 <gs:MUILanguagePreferences>
 	<gs:MUILanguage Value="en-GB"/>
-	<gs:MUIFallback Value="en-US"/>
 </gs:MUILanguagePreferences>
 <!-- input preferences -->
 <gs:InputPreferences>
